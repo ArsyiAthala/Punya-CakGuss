@@ -1,0 +1,19 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 12rem;
+  background-image: url("img/test.jpeg");
+  font-family: sans-serif;
+  background-size: cover;
+  
+}
+
+#project {
+  background-color: rgb(223, 223, 223);
+}
+
+#contact {
+  background-color: rgb(223, 223, 223);
+}
+
